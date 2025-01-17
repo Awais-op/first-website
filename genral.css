@@ -1,0 +1,43 @@
+.page-body{
+    margin-top: 50px;
+    
+}
+
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: black;
+    font-size: 25px;
+    color: whitesmoke;
+    
+}
+
+.you-and-me{
+    margin-left: 50px;
+}
+a{
+    color: whitesmoke;
+
+}
+
+a:hover{
+    color:brown
+}
+
+a:visited{
+    color: color rgb(114, 70, 70)
+}
+
+button{
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+
+}
+
+.back-text{
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+
+}

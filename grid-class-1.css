@@ -1,0 +1,47 @@
+.grid-class{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+    column-gap: 30px;
+    margin-top: 30px;
+    margin-left: 100px;
+    
+}
+.Razia-div{
+    background-color: red;
+    font-size: 20px;
+    font-weight: 700;
+    }
+.Yousaf{
+    background-color: blue;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Awais{
+    background-color: brown;
+    font-size: 20px;
+    font-weight: 700;
+}   
+.Atiqa{
+    background-color: blueviolet;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Zain{
+    background-color: yellow;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Anam{
+    background-color: darkgreen;
+    font-size: 20px;
+    font-weight: 700;
+}
+   
+.grid-class-two{
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+    column-gap: 30px;
+    margin-left: 100px;
+    
+}
